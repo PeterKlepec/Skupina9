@@ -11,11 +11,11 @@ _Disease Identification in Potato Leaves Using a Multi-Tier Deep Learning Model,
 _Detecting Diseases in Potato Leaves using Deep Learning and Machine Learning Approaches: A Review_
 
 
-Tim: 
+**Tim:**
 
-Kristjan:
+**Kristjan:**
 
-Nejc:
+**Nejc:**
 
 Naj en uzame(): Monitoring and control of aeroponic growing system for potato production
 
