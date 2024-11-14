@@ -37,7 +37,6 @@ This study proposes a solution using deep learning and Convolutional Neural Netw
 By automating disease detection, this system can help farmers diagnose issues more efficiently, reducing reliance on experts and improving crop management. The results indicate that CNNs are a promising tool for agricultural disease detection, offering a cost-effective and scalable solution to enhance potato production.
 
 
-Citat: A. J. Rozaqi and A. Sunyoto, "Identification of Disease in Potato Leaves Using Convolutional Neural Network (CNN) Algorithm," 2020 3rd International Conference on Information and Communications Technology (ICOIACT), Yogyakarta, Indonesia, 2020, pp. 72-76, doi: 10.1109/ICOIACT50329.2020.9332037. keywords: {Training data;Production;Agriculture;Convolutional neural networks;Sustainable development;Diseases;Testing;Potato diseases;late blight;early blight;identification;CNN},
 
 **3.Potato Leaf Disease Classification using Convolutional Neural Networks**
 
@@ -45,7 +44,6 @@ Potatoes are a vital crop in India, but diseases like Early Blight and Late Blig
 
 The model’s effectiveness in identifying leaf diseases is essential for farmers, enabling early intervention and potentially reducing crop damage. The system’s high accuracy also makes it an efficient and cost-effective solution compared to other methods. The study concludes that the CNN-based approach significantly improves potato disease detection, offering farmers a tool to swiftly identify and address issues, thereby enhancing crop yield. Future work could include expanding the dataset, developing a mobile app for farmers, and applying the model to detect diseases in other crops, further improving agricultural productivity.
 
-Citat: Y. P. Wasalwar, K. S. Bagga, V. K. Joshi and A. Joshi, "Potato Leaf Disease Classification using Convolutional Neural Networks," 2023 11th International Conference on Emerging Trends in Engineering & Technology - Signal and Information Processing (ICETET - SIP), Nagpur, India, 2023, pp. 1-5, doi: 10.1109/ICETET-SIP58143.2023.10151591. keywords: {Deep learning;Visualization;Neural networks;Crops;Production;Information processing;Feature extraction;Potato disease;leaves;late blight;early blight;CNN;deep learning;image processing},
 
 **4.Disease Identification in Potato Leaves Using a Multi-Tier Deep Learning Model**
 
@@ -59,7 +57,7 @@ The deep learning model was trained on over 3,200 images, achieving high classif
 
 In conclusion, deep learning algorithms, particularly CNNs, are highly effective for early detection of potato leaf diseases. This can significantly reduce crop loss, lower production costs, and improve overall potato yield quality. Future research may focus on further refining these models to reduce false positives and incorporate more diverse datasets for better generalization across different environmental conditions.
 
-Citat: A. Kumar, N. K. Trivedi and R. G. Tiwari, "Disease Identification in Potato Leaves Using a Multi-Tier Deep Learning Model," 2023 3rd Asian Conference on Innovation in Technology (ASIANCON), Ravet IN, India, 2023, pp. 1-6, doi: 10.1109/ASIANCON58793.2023.10270410. keywords: {Deep learning;Training;Support vector machines;Technological innovation;System performance;Crops;Production;Potato;Neural Network;SVM;SGD;CNN},
+
 
 **5.Detecting Diseases in Potato Leaves using Deep Learning and Machine Learning Approaches: A Review**
 
@@ -69,6 +67,14 @@ To address this, advancements in Deep Learning (DL) and Machine Learning (ML) of
 
 By using CNN for early detection, farmers can identify and treat diseases before they spread, reducing financial losses and improving crop yields. These AI-based solutions also minimize human intervention, making disease monitoring more efficient. As such, integrating CNN into agricultural practices could significantly enhance food security and support farmers in managing crop health more effectively, ultimately boosting India’s agricultural productivity.
 
-Citat:H. Bommala, N. J. Babu, P. Srikanth, S. K. R. Mallidi, T. S. R. Sai and R. Mounika, "Detecting Diseases in Potato Leaves using Deep Learning and Machine Learning Approaches: A Review," 2023 4th International Conference on Smart Electronics and Communication (ICOSEC), Trichy, India, 2023, pp. 788-792, doi: 10.1109/ICOSEC58147.2023.10276029. keywords: {Deep learning;Productivity;Plant diseases;Microorganisms;Convolution;Biological system modeling;Transfer learning;Agricultural Workers;Comprehensive Analysis Convolution Neural Network;Crop Yields;Deep Neural Network;Potato Leaf Diseases},
+**1. Citat:** S. U. Eraj and M. N. Uddin, "Early stage Potato Disease Classification by analyzing Potato Plants using CNN," 2023 International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM), Gazipur, Bangladesh, 2023, pp. 1-6, doi: 10.1109/NCIM59001.2023.10212746. keywords: {Image segmentation;Crops;Machine learning;Classification algorithms;Convolutional neural networks;Next generation networking;Diseases;Potato;Early Blight;Late Blight;potato leaf diseases;Convolutional Neural Network;Yield;Keras API;Prefetch;ReLU;React Js;Fast API},
+
+**2. Citat:** A. J. Rozaqi and A. Sunyoto, "Identification of Disease in Potato Leaves Using Convolutional Neural Network (CNN) Algorithm," 2020 3rd International Conference on Information and Communications Technology (ICOIACT), Yogyakarta, Indonesia, 2020, pp. 72-76, doi: 10.1109/ICOIACT50329.2020.9332037. keywords: {Training data;Production;Agriculture;Convolutional neural networks;Sustainable development;Diseases;Testing;Potato diseases;late blight;early blight;identification;CNN},
+
+**3. Citat:** Y. P. Wasalwar, K. S. Bagga, V. K. Joshi and A. Joshi, "Potato Leaf Disease Classification using Convolutional Neural Networks," 2023 11th International Conference on Emerging Trends in Engineering & Technology - Signal and Information Processing (ICETET - SIP), Nagpur, India, 2023, pp. 1-5, doi: 10.1109/ICETET-SIP58143.2023.10151591. keywords: {Deep learning;Visualization;Neural networks;Crops;Production;Information processing;Feature extraction;Potato disease;leaves;late blight;early blight;CNN;deep learning;image processing},
+
+**4. Citat:** A. Kumar, N. K. Trivedi and R. G. Tiwari, "Disease Identification in Potato Leaves Using a Multi-Tier Deep Learning Model," 2023 3rd Asian Conference on Innovation in Technology (ASIANCON), Ravet IN, India, 2023, pp. 1-6, doi: 10.1109/ASIANCON58793.2023.10270410. keywords: {Deep learning;Training;Support vector machines;Technological innovation;System performance;Crops;Production;Potato;Neural Network;SVM;SGD;CNN},
+
+**5. Citat:** H. Bommala, N. J. Babu, P. Srikanth, S. K. R. Mallidi, T. S. R. Sai and R. Mounika, "Detecting Diseases in Potato Leaves using Deep Learning and Machine Learning Approaches: A Review," 2023 4th International Conference on Smart Electronics and Communication (ICOSEC), Trichy, India, 2023, pp. 788-792, doi: 10.1109/ICOSEC58147.2023.10276029. keywords: {Deep learning;Productivity;Plant diseases;Microorganisms;Convolution;Biological system modeling;Transfer learning;Agricultural Workers;Comprehensive Analysis Convolution Neural Network;Crop Yields;Deep Neural Network;Potato Leaf Diseases},
 
 
