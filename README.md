@@ -1,6 +1,6 @@
 Gal:
 
-**#Zaznavanje bolezni krompirja**
+**Zaznavanje bolezni krompirja**
 
 Naslovi:Early stage Potato Disease Classification by analyzing Potato Plants using CNN,
 
@@ -26,7 +26,7 @@ Aeroponics is a soil- and water-free method of growing plants, where roots are m
 
 Citat: I. Idris and Muhammad Ikhsan Sani, "Monitoring and control of aeroponic growing system for potato production," 2012 IEEE Conference on Control, Systems & Industrial Informatics, Bandung, Indonesia, 2012, pp. 120-125, doi: 10.1109/CCSII.2012.6470485. keywords: {Ultrasonic variables measurement;Monitoring;Testing;Educational institutions;Humidity measurement;Production;Green products;aeroponic;monitoring system;control system;sensor;potato},
 
-##**1. Early stage Potato Disease Classification by analyzing Potato Plants using CNN**
+##1. Early stage Potato Disease Classification by analyzing Potato Plants using CNN
    
 Aeroponics is a method of growing plants without soil or water, using a nutrient-rich mist sprayed directly on the roots. This technique is particularly beneficial for potato cultivation, enabling disease-free seed production in controlled environments, which can improve yields and reduce pesticide use. This paper describes the design and implementation of a monitoring and control system for an aeroponic potato growing chamber. The system uses sensors to monitor temperature and humidity, displaying the data on an LCD and sending it to a computer for remote monitoring. A microcontroller-driven control system regulates actuators (such as pumps, mist makers, and fans) to deliver water and nutrients at optimal times and amounts. Tested in a greenhouse, the system successfully maintained ideal growing conditions with an average temperature of 19.6°C and 83.3% humidity. The nutrient solution's pH was maintained at 5.8 for efficient nutrient absorption. Results showed that the system effectively controlled environmental factors, improved plant health, and increased yields. This aeroponic method offers a sustainable and cost-effective solution for potato seed production, with the potential to reduce agricultural costs and environmental impact. Further studies are needed to optimize nutrient balance and assess the system’s economic feasibility.
 
