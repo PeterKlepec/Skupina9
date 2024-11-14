@@ -39,3 +39,6 @@ The system was tested in a potato seed greenhouse. The temperature and humidity 
 **Conclusion:**
 
 The developed aeroponic system for potato cultivation successfully monitors and controls environmental factors, ensuring optimal conditions for growth. The system reduces the need for manual intervention, improves plant health, and increases yields. While further research is needed to optimize nutrient balance and evaluate the economic feasibility, this system demonstrates significant potential for enhancing potato seed production in a sustainable and cost-effective manner.
+
+Citat: I. Idris and Muhammad Ikhsan Sani, "Monitoring and control of aeroponic growing system for potato production," 2012 IEEE Conference on Control, Systems & Industrial Informatics, Bandung, Indonesia, 2012, pp. 120-125, doi: 10.1109/CCSII.2012.6470485. keywords: {Ultrasonic variables measurement;Monitoring;Testing;Educational institutions;Humidity measurement;Production;Green products;aeroponic;monitoring system;control system;sensor;potato},
+
