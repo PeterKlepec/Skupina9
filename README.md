@@ -1,6 +1,6 @@
 Gal: **#Zaznavanje bolezni krompirja**
 
-##Naslovi: Early stage Potato Disease Classification by analyzing Potato Plants using CNN,
+##Naslovi: Early stage Potato Disease Classification by analyzing Potato Plants using CNN,/
 Identification of Disease in Potato Leaves Using Convolutional Neural Network (CNN) Algorithm,
 Potato Leaf Disease Classification using Convolutional Neural Networks,
 Disease Identification in Potato Leaves Using a Multi-Tier Deep Learning Model,
