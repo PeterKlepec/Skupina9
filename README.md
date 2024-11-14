@@ -1,5 +1,6 @@
-Gal:Early stage Potato Disease Classification by analyzing Potato Plants using CNN
+Gal:Early stage Potato Disease Classification by analyzing Potato Plants using CNN, Monitoring and control of aeroponic growing system for potato production
 
+1.
 Potatoes are a major food crop worldwide, with significant importance in Bangladesh’s agricultural landscape. However, potato plants are vulnerable to diseases that hinder their growth and yield, particularly early blight and late blight, which affect the leaves. Identifying these diseases early can significantly improve crop outcomes. Traditional methods of detection, such as visual inspection, are often impractical due to their time-consuming nature and the lack of expertise, especially in remote areas. A promising alternative is using computer-based image processing techniques to detect and classify these diseases through analysis of potato leaf images.
 
 This paper presents a system that utilizes machine learning (ML) algorithms to classify potato leaf diseases. The system analyzes over 2,152 images of potato leaves, categorized as healthy, early blight, or late blight. Seven different classification algorithms were tested, with a Convolutional Neural Network (CNN) proving to be the most accurate in detecting and diagnosing these diseases. CNNs are a deep learning technique widely used for image classification due to their efficiency in recognizing patterns within images.
