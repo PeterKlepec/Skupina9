@@ -15,3 +15,27 @@ In conclusion, this research highlights the importance of using advanced technol
 
 Citat:S. U. Eraj and M. N. Uddin, "Early stage Potato Disease Classification by analyzing Potato Plants using CNN," 2023 International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM), Gazipur, Bangladesh, 2023, pp. 1-6, doi: 10.1109/NCIM59001.2023.10212746. keywords: {Image segmentation;Crops;Machine learning;Classification algorithms;Convolutional neural networks;Next generation networking;Diseases;Potato;Early Blight;Late Blight;potato leaf diseases;Convolutional Neural Network;Yield;Keras API;Prefetch;ReLU;React Js;Fast API},
 
+2.
+**Abstract:**
+
+Aeroponics is a method of growing plants without soil or water, using a nutrient-rich mist sprayed directly on the roots. This technique has been increasingly used in potato cultivation, especially for producing disease-free seed potatoes in a controlled environment, which can improve crop yields and reduce pesticide use. A key aspect of aeroponic systems is maintaining optimal conditions for plant growth, including controlling temperature, humidity, and nutrient delivery. This paper discusses the design and implementation of a monitoring and control system for managing these environmental factors in an aeroponic potato growing chamber. The system uses sensors to monitor temperature and humidity, which are displayed on an LCD and sent to a computer for remote monitoring. The control system, driven by a microcontroller, regulates actuators (such as pumps, mist makers, and fans) to ensure the plants receive water and nutrients at the right time and in the right amount. The system was tested in a greenhouse environment, with results showing that it effectively maintained the required conditions for optimal potato growth. The average temperature and humidity inside the chamber during operation were 19.6°C and 83.3% relative humidity (RH), which are suitable for potato cultivation. The pH of the nutrient solution was maintained at 5.8, ensuring efficient nutrient uptake. The system demonstrated that aeroponics can be a cost-effective and environmentally sustainable method for growing potatoes, especially for seed production, and has the potential to improve yield and reduce agricultural costs.
+
+**Introduction:**
+
+Potato cultivation in Indonesia has faced challenges, including the high cost of greenhouse operations and the need for better potato seed quality. The aeroponic system, originally developed by NASA, offers a promising solution. It eliminates the need for soil and allows precise control over environmental factors, leading to healthier plants and higher yields. This system has been shown to outperform traditional soil-based methods, producing up to 70 bulbs per plant compared to just 8 in conventional systems. Aeroponics also reduces the use of pesticides, creating a cleaner environment for potato production.
+
+**System Overview:**
+
+The aeroponic system uses a closed or semi-closed chamber where plants are suspended, and their roots are sprayed with a nutrient-rich mist. To ensure optimal growth, precise control of temperature, humidity, and nutrient levels is necessary. The system includes sensors to monitor these parameters and actuators to control water and nutrient delivery. The system is designed for potato seed production and aims to improve the efficiency and sustainability of cultivation.
+
+**Monitoring and Control System:**
+
+The monitoring system tracks temperature and humidity inside the growing chamber. These readings are displayed on an LCD and transmitted to a computer for easier monitoring. The control system uses a microcontroller to regulate actuators based on sensor data. For example, the system adjusts the mist maker, water pumps, and fans to maintain the required conditions for the potato plants. The nutrient mist is delivered to the roots after they are moistened with water, ensuring better nutrient absorption.
+
+**Testing and Results:**
+
+The system was tested in a potato seed greenhouse. The temperature and humidity were monitored and kept within optimal ranges for potato growth. The actuator tests showed that the mist maker and pumps effectively distributed nutrients and water to the plant roots. The system also successfully maintained the desired pH levels for nutrient solutions. 
+
+**Conclusion:**
+
+The developed aeroponic system for potato cultivation successfully monitors and controls environmental factors, ensuring optimal conditions for growth. The system reduces the need for manual intervention, improves plant health, and increases yields. While further research is needed to optimize nutrient balance and evaluate the economic feasibility, this system demonstrates significant potential for enhancing potato seed production in a sustainable and cost-effective manner.
