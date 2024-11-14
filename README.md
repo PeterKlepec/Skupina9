@@ -1,4 +1,4 @@
-Gal:
+Gal:Early stage Potato Disease Classification by analyzing Potato Plants using CNN
 
 Potatoes are a major food crop worldwide, with significant importance in Bangladesh’s agricultural landscape. However, potato plants are vulnerable to diseases that hinder their growth and yield, particularly early blight and late blight, which affect the leaves. Identifying these diseases early can significantly improve crop outcomes. Traditional methods of detection, such as visual inspection, are often impractical due to their time-consuming nature and the lack of expertise, especially in remote areas. A promising alternative is using computer-based image processing techniques to detect and classify these diseases through analysis of potato leaf images.
 
