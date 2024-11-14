@@ -1,12 +1,15 @@
 **Gal:** *Zaznavanje bolezni krompirja*
 
+____________________________________________________________________________________________________________________________________________________________________________________________________
 
 Potatoes are a vital crop, but their cultivation faces significant challenges due to diseases like early and late blight, which can severely reduce yield and quality. Traditional disease detection methods are often slow and inaccurate. This paper explores the use of Convolutional Neural Networks (CNNs) for early disease identification, offering a faster, more accurate solution for farmers.
 
+____________________________________________________________________________________________________________________________________________________________________________________________________
 
 **1. Early stage Potato Disease Classification by analyzing Potato Plants using CNN**
    
 Aeroponics is a method of growing plants without soil or water, using a nutrient-rich mist sprayed directly on the roots. This technique is particularly beneficial for potato cultivation, enabling disease-free seed production in controlled environments, which can improve yields and reduce pesticide use. This paper describes the design and implementation of a monitoring and control system for an aeroponic potato growing chamber. The system uses sensors to monitor temperature and humidity, displaying the data on an LCD and sending it to a computer for remote monitoring. A microcontroller-driven control system regulates actuators (such as pumps, mist makers, and fans) to deliver water and nutrients at optimal times and amounts. Tested in a greenhouse, the system successfully maintained ideal growing conditions with an average temperature of 19.6°C and 83.3% humidity. The nutrient solution's pH was maintained at 5.8 for efficient nutrient absorption. Results showed that the system effectively controlled environmental factors, improved plant health, and increased yields. This aeroponic method offers a sustainable and cost-effective solution for potato seed production, with the potential to reduce agricultural costs and environmental impact. Further studies are needed to optimize nutrient balance and assess the system’s economic feasibility.
+____________________________________________________________________________________________________________________________________________________________________________________________________
 
 **2.Identification of Disease in Potato Leaves Using Convolutional Neural Network (CNN) Algorithm**
 
@@ -16,6 +19,7 @@ This study proposes a solution using deep learning and Convolutional Neural Netw
 
 By automating disease detection, this system can help farmers diagnose issues more efficiently, reducing reliance on experts and improving crop management. The results indicate that CNNs are a promising tool for agricultural disease detection, offering a cost-effective and scalable solution to enhance potato production.
 
+____________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 **3.Potato Leaf Disease Classification using Convolutional Neural Networks**
@@ -24,6 +28,7 @@ Potatoes are a vital crop in India, but diseases like Early Blight and Late Blig
 
 The model’s effectiveness in identifying leaf diseases is essential for farmers, enabling early intervention and potentially reducing crop damage. The system’s high accuracy also makes it an efficient and cost-effective solution compared to other methods. The study concludes that the CNN-based approach significantly improves potato disease detection, offering farmers a tool to swiftly identify and address issues, thereby enhancing crop yield. Future work could include expanding the dataset, developing a mobile app for farmers, and applying the model to detect diseases in other crops, further improving agricultural productivity.
 
+____________________________________________________________________________________________________________________________________________________________________________________________________
 
 **4.Disease Identification in Potato Leaves Using a Multi-Tier Deep Learning Model**
 
@@ -38,6 +43,7 @@ The deep learning model was trained on over 3,200 images, achieving high classif
 In conclusion, deep learning algorithms, particularly CNNs, are highly effective for early detection of potato leaf diseases. This can significantly reduce crop loss, lower production costs, and improve overall potato yield quality. Future research may focus on further refining these models to reduce false positives and incorporate more diverse datasets for better generalization across different environmental conditions.
 
 
+____________________________________________________________________________________________________________________________________________________________________________________________________
 
 **5.Detecting Diseases in Potato Leaves using Deep Learning and Machine Learning Approaches: A Review**
 
@@ -46,6 +52,13 @@ India, an agriculturally driven nation, faces significant challenges in crop pro
 To address this, advancements in Deep Learning (DL) and Machine Learning (ML) offer promising solutions for early disease detection. Convolutional Neural Networks (CNN), a type of deep neural network, have proven highly effective in diagnosing plant diseases by analyzing images of plant leaves. Research shows CNN models can achieve accuracy rates of 91% to 100%, outperforming other methods like k-NN and decision trees.
 
 By using CNN for early detection, farmers can identify and treat diseases before they spread, reducing financial losses and improving crop yields. These AI-based solutions also minimize human intervention, making disease monitoring more efficient. As such, integrating CNN into agricultural practices could significantly enhance food security and support farmers in managing crop health more effectively, ultimately boosting India’s agricultural productivity.
+
+____________________________________________________________________________________________________________________________________________________________________________________________________
+In conclusion, Convolutional Neural Networks (CNNs) offer a promising solution for early detection of potato diseases, improving accuracy and efficiency in disease management. By automating disease classification, farmers can reduce crop losses and optimize yield. This technology has the potential to significantly enhance potato production and support sustainable agricultural practices.
+____________________________________________________________________________________________________________________________________________________________________________________________________
+
+**KAZALO VIROV**
+
 
 **1. Citat:** S. U. Eraj and M. N. Uddin, "Early stage Potato Disease Classification by analyzing Potato Plants using CNN," 2023 International Conference on Next-Generation Computing, IoT and Machine Learning (NCIM), Gazipur, Bangladesh, 2023, pp. 1-6, doi: 10.1109/NCIM59001.2023.10212746. keywords: {Image segmentation;Crops;Machine learning;Classification algorithms;Convolutional neural networks;Next generation networking;Diseases;Potato;Early Blight;Late Blight;potato leaf diseases;Convolutional Neural Network;Yield;Keras API;Prefetch;ReLU;React Js;Fast API},
 
