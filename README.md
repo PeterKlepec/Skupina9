@@ -1,4 +1,6 @@
-Gal: **#Zaznavanje bolezni krompirja**
+Gal:
+
+**#Zaznavanje bolezni krompirja**
 
 Naslovi:Early stage Potato Disease Classification by analyzing Potato Plants using CNN,
 
