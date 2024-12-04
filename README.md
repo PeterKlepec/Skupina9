@@ -1,5 +1,6 @@
 
-======= **Nejc:** *gojenje krompirja*
+**Nejc:** *gojenje krompirja*
+=========
 ____________________________________________________________________________________________________________________________________________________________________________________________________
 Krompir (Solanum tuberosum) je priljubljena gomoljnata rastlina, ki uspeva v različnih podnebjih. Za uspešno gojenje je pomembna rodovitna, dobro odcedna zemlja in zadostna količina vlage. Krompir se običajno sadi spomladi, ko so tla dovolj topla, in potrebuje približno 90–120 dni za dozorevanje. Gnojenje, pletje in zaščita pred škodljivci, kot so koloradski hrošči, so ključni za bogat pridelek. Krompir je ena od osnovnih prehranskih rastlin in ima pomembno vlogo v kmetijstvu po vsem svetu.
 ____________________________________________________________________________________________________________________________________________________________________________________________________
@@ -32,6 +33,7 @@ Gojenje krompirja je enostavno in koristno, saj gre za prilagodljivo rastlino, k
 ____________________________________________________________________________________________________________________________________________________________________________________________________
 
 **Kristjan:** *Bolezni listov krompirja*
+=========
 ____________________________________________________________________________________________________________________________________________________________________________________________________
 **1. Monitoring and control of aeroponic growing system for potato production**
 
@@ -128,6 +130,8 @@ By using CNN for early detection, farmers can identify and treat diseases before
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________
 In conclusion, Convolutional Neural Networks (CNNs) offer a promising solution for early detection of potato diseases, improving accuracy and efficiency in disease management. By automating disease classification, farmers can reduce crop losses and optimize yield. This technology has the potential to significantly enhance potato production and support sustainable agricultural practices.
+
+>>>>>>> origin/galova-veja
 ____________________________________________________________________________________________________________________________________________________________________________________________________
 
 **KAZALO VIROV**
