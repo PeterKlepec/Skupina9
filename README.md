@@ -71,6 +71,7 @@ ________________________________________________________________________________
 
 
 **Gal:** *Zaznavanje bolezni krompirja*
+=========
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________
 
@@ -142,7 +143,7 @@ ________________________________________________________________________________
 
 **5. Citat:** H. Bommala, N. J. Babu, P. Srikanth, S. K. R. Mallidi, T. S. R. Sai and R. Mounika, "Detecting Diseases in Potato Leaves using Deep Learning and Machine Learning Approaches: A Review," 2023 4th International Conference on Smart Electronics and Communication (ICOSEC), Trichy, India, 2023, pp. 788-792, doi: 10.1109/ICOSEC58147.2023.10276029. keywords: {Deep learning;Productivity;Plant diseases;Microorganisms;Convolution;Biological system modeling;Transfer learning;Agricultural Workers;Comprehensive Analysis Convolution Neural Network;Crop Yields;Deep Neural Network;Potato Leaf Diseases},
 >>>>>>> galova-veja
-=======
+
 **1. Citat:** I. Idris and Muhammad Ikhsan Sani, "Monitoring and control of aeroponic growing system for potato production," 2012 IEEE Conference on Control, Systems & Industrial Informatics, Bandung, Indonesia, 2012, pp. 120-125, doi: 10.1109/CCSII.2012.6470485. keywords: {Ultrasonic variables measurement;Monitoring;Testing;Educational institutions;Humidity measurement;Production;Green products;aeroponic;monitoring system;control system;sensor;potato},
 
 **2. Citat:** L. -H. Li and R. Tanone, "Disease Identification in Potato Leaves using Swin Transformer," 2023 17th International Conference on Ubiquitous Information Management and Communication (IMCOM), Seoul, Korea, Republic of, 2023, pp. 1-5, doi: 10.1109/IMCOM56909.2023.10035609. keywords: {Deep learning;Training;Measurement;Computational modeling;Production;Transformers;Market research;Swin Transformer;potato leaf classification;deep learning},
