@@ -146,7 +146,7 @@ ________________________________________________________________________________
 **4. Citat:** A. Kumar, N. K. Trivedi and R. G. Tiwari, "Disease Identification in Potato Leaves Using a Multi-Tier Deep Learning Model," 2023 3rd Asian Conference on Innovation in Technology (ASIANCON), Ravet IN, India, 2023, pp. 1-6, doi: 10.1109/ASIANCON58793.2023.10270410. keywords: {Deep learning;Training;Support vector machines;Technological innovation;System performance;Crops;Production;Potato;Neural Network;SVM;SGD;CNN},
 
 **5. Citat:** H. Bommala, N. J. Babu, P. Srikanth, S. K. R. Mallidi, T. S. R. Sai and R. Mounika, "Detecting Diseases in Potato Leaves using Deep Learning and Machine Learning Approaches: A Review," 2023 4th International Conference on Smart Electronics and Communication (ICOSEC), Trichy, India, 2023, pp. 788-792, doi: 10.1109/ICOSEC58147.2023.10276029. keywords: {Deep learning;Productivity;Plant diseases;Microorganisms;Convolution;Biological system modeling;Transfer learning;Agricultural Workers;Comprehensive Analysis Convolution Neural Network;Crop Yields;Deep Neural Network;Potato Leaf Diseases},
->>>>>>> galova-veja
+>>>>>>> origin/galova-veja
 
 **1. Citat:** I. Idris and Muhammad Ikhsan Sani, "Monitoring and control of aeroponic growing system for potato production," 2012 IEEE Conference on Control, Systems & Industrial Informatics, Bandung, Indonesia, 2012, pp. 120-125, doi: 10.1109/CCSII.2012.6470485. keywords: {Ultrasonic variables measurement;Monitoring;Testing;Educational institutions;Humidity measurement;Production;Green products;aeroponic;monitoring system;control system;sensor;potato},
 
