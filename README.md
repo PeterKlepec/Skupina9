@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
+
 =======
 **Nejc:** *gojenje krompirja*
 ____________________________________________________________________________________________________________________________________________________________________________________________________
@@ -67,27 +65,7 @@ To address this issue, the proposed solution involves using deep learning models
 
 >>>>>>> origin/Kristjan
 
-**____________________________________________________________________________________________________________________________________________________________________________________________________**
-
-**KAZALO VIROV**
-
-
-<<<<<<< HEAD
-**1. Citat:** R. Yusianto, Marimin, Suprihatin and H. Hardjomidjojo, "Spatial Analysis for Crop Land Suitability Evaluation: A Case Study of Potatoes Cultivation in Wonosobo, Indonesia," 2020 International Seminar on Application for Technology of Information and Communication (iSemantic), Semarang, Indonesia, 2020, pp. 313-319, doi: 10.1109/iSemantic50169.2020.9234284.
-keywords: {suitability land;potato cultivation;agriculture;spatial analysis},
-
-**2. Citat:** S. Gour, R. K. Kasera, W. N. Singh and T. Acharjee, "Low Cost IoT Based Smart Irrigation System for Potato Cultivation," 2023 IEEE Guwahati Subsection Conference (GCON), Guwahati, India, 2023, pp. 01-06, doi: 10.1109/GCON58516.2023.10183589.
-keywords: {Temperature sensors;Temperature measurement;Irrigation;Cloud computing;Soil moisture;Machine learning;Servers;Smart agriculture;Smart irrigation;potato cultivation;LPWAN;MQTT;DBNN},
-
-**3. Citat:** L. Shu, B. Hsiao, Y. -H. Liou and Y. -L. Tsai, "On the Selection of Features for the Prediction Model of Cultivation of Sweet Potatoes at Early Growth Stage," 2019 IEEE Symposium Series on Computational Intelligence (SSCI), Xiamen, China, 2019, pp. 2981-2988, doi: 10.1109/SSCI44817.2019.9002871.
-keywords: {Predictive models;Feature extraction;Data models;Simulated annealing;Production;Prediction algorithms;Urban areas;feature selection;feature grouping;simulated annealing;gradient boosting regression tree},
-
-**4. Citat:** M. D. Sai Ponnuru and L. Amasala, "Revolutionizing Potato Farming: A CNN-Powered Approach for Early Blight and Late Blight Detection to Ensure Global Food Security," 2024 IEEE International Students' Conference on Electrical, Electronics and Computer Science (SCEECS), Bhopal, India, 2024, pp. 1-5, doi: 10.1109/SCEECS61402.2024.10482138.
-keywords: {Economics;Technological innovation;Food security;Crops;Predictive models;Stability analysis;Mobile applications;Potato disease detection;Convolutional Neural Networks (CNNs);Early blight;Late blight;Agriculture;Crop protection Food security;Economic stability},
-
-**5. Citat:** A. V. Stepura and P. I. Talanov, "Study of the effect of electromagnetic radiation of extremely high frequency wavelength on potato growth rate," 2015 International Conference on Antenna Theory and Techniques (ICATT), Kharkiv, Ukraine, 2015, pp. 1-3, doi: 10.1109/ICATT.2015.7136897.
-keywords: {Agriculture;Productivity;Electromagnetic fields;Generators;Antenna theory;Microwave theory and techniques;Electromagnetic fields;extremely high frequencies;microwave technologies;quality of agricultural production;productivity;phytopathogens;diseases},
->>>>>>> origin/Gabric
+____________________________________________________________________________________________________________________________________________________________________________________________________
 
 
 =======
@@ -174,3 +152,19 @@ ________________________________________________________________________________
 
 **5. Citat:** M. K. R. Asif, M. A. Rahman and M. H. Hena, "CNN based Disease Detection Approach on Potato Leaves," 2020 3rd International Conference on Intelligent Sustainable Systems (ICISS), Thoothukudi, India, 2020, pp. 428-432, doi: 10.1109/ICISS49785.2020.9316021. keywords: {Diseases;Training;Testing;Mathematical model;Conferences;Deep learning;Convolution;Potato Disease Detection;Image Processing;Neural Network},
 >>>>>>> origin/Kristjan
+<<<<<<< HEAD
+**1. Citat:** R. Yusianto, Marimin, Suprihatin and H. Hardjomidjojo, "Spatial Analysis for Crop Land Suitability Evaluation: A Case Study of Potatoes Cultivation in Wonosobo, Indonesia," 2020 International Seminar on Application for Technology of Information and Communication (iSemantic), Semarang, Indonesia, 2020, pp. 313-319, doi: 10.1109/iSemantic50169.2020.9234284.
+keywords: {suitability land;potato cultivation;agriculture;spatial analysis},
+
+**2. Citat:** S. Gour, R. K. Kasera, W. N. Singh and T. Acharjee, "Low Cost IoT Based Smart Irrigation System for Potato Cultivation," 2023 IEEE Guwahati Subsection Conference (GCON), Guwahati, India, 2023, pp. 01-06, doi: 10.1109/GCON58516.2023.10183589.
+keywords: {Temperature sensors;Temperature measurement;Irrigation;Cloud computing;Soil moisture;Machine learning;Servers;Smart agriculture;Smart irrigation;potato cultivation;LPWAN;MQTT;DBNN},
+
+**3. Citat:** L. Shu, B. Hsiao, Y. -H. Liou and Y. -L. Tsai, "On the Selection of Features for the Prediction Model of Cultivation of Sweet Potatoes at Early Growth Stage," 2019 IEEE Symposium Series on Computational Intelligence (SSCI), Xiamen, China, 2019, pp. 2981-2988, doi: 10.1109/SSCI44817.2019.9002871.
+keywords: {Predictive models;Feature extraction;Data models;Simulated annealing;Production;Prediction algorithms;Urban areas;feature selection;feature grouping;simulated annealing;gradient boosting regression tree},
+
+**4. Citat:** M. D. Sai Ponnuru and L. Amasala, "Revolutionizing Potato Farming: A CNN-Powered Approach for Early Blight and Late Blight Detection to Ensure Global Food Security," 2024 IEEE International Students' Conference on Electrical, Electronics and Computer Science (SCEECS), Bhopal, India, 2024, pp. 1-5, doi: 10.1109/SCEECS61402.2024.10482138.
+keywords: {Economics;Technological innovation;Food security;Crops;Predictive models;Stability analysis;Mobile applications;Potato disease detection;Convolutional Neural Networks (CNNs);Early blight;Late blight;Agriculture;Crop protection Food security;Economic stability},
+
+**5. Citat:** A. V. Stepura and P. I. Talanov, "Study of the effect of electromagnetic radiation of extremely high frequency wavelength on potato growth rate," 2015 International Conference on Antenna Theory and Techniques (ICATT), Kharkiv, Ukraine, 2015, pp. 1-3, doi: 10.1109/ICATT.2015.7136897.
+keywords: {Agriculture;Productivity;Electromagnetic fields;Generators;Antenna theory;Microwave theory and techniques;Electromagnetic fields;extremely high frequencies;microwave technologies;quality of agricultural production;productivity;phytopathogens;diseases},
+>>>>>>> origin/Gabric
