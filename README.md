@@ -28,8 +28,8 @@ ________________________________________________________________________________
 The experimental investigations of the impact of low-intensity electromagnetic fields of extremely high frequency on morphometric growth parameters of potato tubers seedlings, as well as growth parameters of plants and potato tubers are carried out in the “Scientific Research Institute of Applied Electrodynamics, Photonics and Living Systems ” (SRI AEPLS). This article presents the results of investigations, tubers processing methods and estimation of the used EMF parameters. Possible approaches are discussed to the mathematical modeling of treatment of dielectric materials, to which the potato sprouts and tubers should be attributed. The procedure of these investigations was as follows: specified groups of samples of potato tubers, before vemalization in light and subsequent germination or planting in the ground, were treated with EMF of EHF with a wavelength of 7.1 mm, low intensity - no more than 1mW/sm 2 . The duration of this treatment and, as a result, the EMF energy absorbed by tubers had different values for different groups of samples.
 ____________________________________________________________________________________________________________________________________________________________________________________________________
 Gojenje krompirja je enostavno in koristno, saj gre za prilagodljivo rastlino, ki nudi bogat vir hranil in energije. S pravilno pripravo tal, ustrezno oskrbo in pravočasnim pobiranjem pridelka lahko krompir postane nepogrešljiv del vsakega vrta ali kmetije. Njegova vsestranskost in prehranska vrednost ga postavljata med najpomembnejše pridelke po svetu.
-
-
+>>>>>>> origin/Gabric
+____________________________________________________________________________________________________________________________________________________________________________________________________
 
 **Kristjan:** *Bolezni listov krompirja*
 ____________________________________________________________________________________________________________________________________________________________________________________________________
@@ -168,4 +168,4 @@ keywords: {Economics;Technological innovation;Food security;Crops;Predictive mod
 
 **5. Citat:** A. V. Stepura and P. I. Talanov, "Study of the effect of electromagnetic radiation of extremely high frequency wavelength on potato growth rate," 2015 International Conference on Antenna Theory and Techniques (ICATT), Kharkiv, Ukraine, 2015, pp. 1-3, doi: 10.1109/ICATT.2015.7136897.
 keywords: {Agriculture;Productivity;Electromagnetic fields;Generators;Antenna theory;Microwave theory and techniques;Electromagnetic fields;extremely high frequencies;microwave technologies;quality of agricultural production;productivity;phytopathogens;diseases},
->>>>>>> Gabric
+>>>>>>> origin/Gabric
