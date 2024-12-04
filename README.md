@@ -1,6 +1,5 @@
 
-=======
-**Nejc:** *gojenje krompirja*
+======= **Nejc:** *gojenje krompirja*
 ____________________________________________________________________________________________________________________________________________________________________________________________________
 Krompir (Solanum tuberosum) je priljubljena gomoljnata rastlina, ki uspeva v različnih podnebjih. Za uspešno gojenje je pomembna rodovitna, dobro odcedna zemlja in zadostna količina vlage. Krompir se običajno sadi spomladi, ko so tla dovolj topla, in potrebuje približno 90–120 dni za dozorevanje. Gnojenje, pletje in zaščita pred škodljivci, kot so koloradski hrošči, so ključni za bogat pridelek. Krompir je ena od osnovnih prehranskih rastlin in ima pomembno vlogo v kmetijstvu po vsem svetu.
 ____________________________________________________________________________________________________________________________________________________________________________________________________
@@ -31,7 +30,7 @@ ________________________________________________________________________________
 Gojenje krompirja je enostavno in koristno, saj gre za prilagodljivo rastlino, ki nudi bogat vir hranil in energije. S pravilno pripravo tal, ustrezno oskrbo in pravočasnim pobiranjem pridelka lahko krompir postane nepogrešljiv del vsakega vrta ali kmetije. Njegova vsestranskost in prehranska vrednost ga postavljata med najpomembnejše pridelke po svetu.
 
 
-=======
+
 **Kristjan:** *Bolezni listov krompirja*
 ____________________________________________________________________________________________________________________________________________________________________________________________________
 **1. Monitoring and control of aeroponic growing system for potato production**
@@ -70,7 +69,7 @@ To address this issue, the proposed solution involves using deep learning models
 ____________________________________________________________________________________________________________________________________________________________________________________________________
 
 
-=======
+
 **Gal:** *Zaznavanje bolezni krompirja*
 
 ____________________________________________________________________________________________________________________________________________________________________________________________________
@@ -154,7 +153,7 @@ ________________________________________________________________________________
 
 **5. Citat:** M. K. R. Asif, M. A. Rahman and M. H. Hena, "CNN based Disease Detection Approach on Potato Leaves," 2020 3rd International Conference on Intelligent Sustainable Systems (ICISS), Thoothukudi, India, 2020, pp. 428-432, doi: 10.1109/ICISS49785.2020.9316021. keywords: {Diseases;Training;Testing;Mathematical model;Conferences;Deep learning;Convolution;Potato Disease Detection;Image Processing;Neural Network},
 >>>>>>> origin/Kristjan
-<<<<<<< HEAD
+
 **1. Citat:** R. Yusianto, Marimin, Suprihatin and H. Hardjomidjojo, "Spatial Analysis for Crop Land Suitability Evaluation: A Case Study of Potatoes Cultivation in Wonosobo, Indonesia," 2020 International Seminar on Application for Technology of Information and Communication (iSemantic), Semarang, Indonesia, 2020, pp. 313-319, doi: 10.1109/iSemantic50169.2020.9234284.
 keywords: {suitability land;potato cultivation;agriculture;spatial analysis},
 
@@ -169,4 +168,4 @@ keywords: {Economics;Technological innovation;Food security;Crops;Predictive mod
 
 **5. Citat:** A. V. Stepura and P. I. Talanov, "Study of the effect of electromagnetic radiation of extremely high frequency wavelength on potato growth rate," 2015 International Conference on Antenna Theory and Techniques (ICATT), Kharkiv, Ukraine, 2015, pp. 1-3, doi: 10.1109/ICATT.2015.7136897.
 keywords: {Agriculture;Productivity;Electromagnetic fields;Generators;Antenna theory;Microwave theory and techniques;Electromagnetic fields;extremely high frequencies;microwave technologies;quality of agricultural production;productivity;phytopathogens;diseases},
->>>>>>> origin/Gabric
+>>>>>>> Gabric
