@@ -1,0 +1,87 @@
+
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+    transition: background-color 0.3s, color 0.3s;
+}
+
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #007bff;
+    color: white;
+}
+
+
+#darkModeToggle {
+    position: absolute;
+    top: 20px;
+    right: 20px;
+}
+
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin: 10px 0;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+
+.slike {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 20px 0;
+}
+
+.slike img {
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+
+body.dark-mode {
+    background-color: #121212;
+    color: #f4f4f4;
+}
+
+body.dark-mode header {
+    background-color: #333;
+}
+
+#nextPage {
+    display: inline-block; 
+    margin-left: auto;     
+    margin-right: 20px;   
+    float: right;    
+}	
+p {
+    max-width: 600px;
+    font-size: 18px;
+    line-height: 1.5;
+    margin: 20px auto;
+    text-align: justify;
+}
+#nextPage {
+    display: inline-block; 
+    margin-left: auto;     
+    margin-right: 20px;    
+    float: right;          
+}

@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="sl">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Krompir</title>
+    <style>
+        /* General styles */
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+        }
+
+        /* Header styles */
+        header {
+            display: flex;
+            align-items: center;
+            justify-content: space-between;
+            background-color: #007BFF; /* Blue background */
+            color: white;
+            padding: 10px 20px;
+        }
+
+        header h1 {
+            margin: 0;
+            font-size: 24px;
+            flex-grow: 1;
+            text-align: center;
+        }
+
+        .date {
+            font-size: 16px;
+        }
+
+        .buttons {
+            display: flex;
+            gap: 10px;
+        }
+
+        .buttons button {
+            background-color: transparent;
+            color: white;
+            border: 1px solid white;
+            padding: 5px 10px;
+            cursor: pointer;
+            border-radius: 5px;
+        }
+
+        .buttons button:hover {
+            background-color: rgba(255, 255, 255, 0.2);
+        }
+
+        /* Main content styles */
+        main {
+            padding: 20px;
+            text-align: center; /* Center-align text and content */
+        }
+
+        h2 {
+            font-size: 24px;
+            color: black;
+            margin-bottom: 10px;
+        }
+
+        p {
+            font-size: 16px;
+            color: black;
+            line-height: 1.4; /* Reduced line-height for smaller gap between parts of the text */
+            margin-bottom: 10px; /* Reduced margin to reduce space below paragraph */
+        }
+
+        .image-container {
+    display: flex; /* Uporabi Flexbox za centriranje slik */
+    justify-content: center; /* Centrira slike horizontalno */
+    align-items: center; /* Centrira slike vertikalno, če je potrebno */
+    gap: 20px; /* Razmik med slikami */
+    margin: 20px 0; /* Dodaten razmik okoli celotne vsebine */
+}
+
+.image-container img {
+    width: 400px; /* Povečaj širino slik */
+    height: 300px; /* Povečaj višino slik */
+    object-fit: cover; /* Prilagodi sliko, da zapolni prostor brez popačenja */
+    border-radius: 10px; /* Zaokroži robove slik */
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.3); /* Povečana senca za lepši videz */
+}
+    </style>
+</head>
+<body>
+    <header>
+        <div class="date" id="live-date"></div>
+        <h1>Krompir</h1>
+        <div class="buttons">
+            <a href="index3.html"><button onclick="navigateTo('next')">Prejšnja stran</button></a>
+            <a href="index.html"><button onclick="navigateTo('main')">Glavna stran</button></a>
+        </div>
+    </header>
+    <main>
+        <h2>Priprava krompirja 2</h2>
+        <p>
+            Restan krompir je kuhan krompir, narezan na rezine, ki ga prepražimo na čebuli in olju ali maslu. 
+            Pogosto ga začinimo s soljo, poprom in peteršiljem ter postrežemo kot prilogo.<br>
+            Ocvrt krompir: Narezan krompir ocvremo v vročem olju do hrustljavega zlatega sloja, kot pri pomfriju ali čipsu.
+        </p>
+        <div class="image-container">
+            <img src="1547909.png" alt="Krompir Image 1">
+            <img src="prazen-krompir.png" alt="Krompir Image 2">
+        </div>
+    </main>
+
+    <script>
+        // Update the live date
+        function updateLiveDate() {
+            const dateElement = document.getElementById('live-date');
+            const currentDate = new Date();
+            const options = { 
+                weekday: 'long', 
+                year: 'numeric', 
+                month: 'long', 
+                day: 'numeric',
+                hour: '2-digit', 
+                minute: '2-digit' 
+            };
+            dateElement.textContent = currentDate.toLocaleDateString('sl-SI', options);
+        }
+
+
+        
+
+        // Initialize date
+        updateLiveDate();
+    </script>
+</body>
+</html>

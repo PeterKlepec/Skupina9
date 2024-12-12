@@ -1,0 +1,111 @@
+/* Osnovni slog */
+body {
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+    background-color: #f4f4f4;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    text-align: center;
+    padding: 20px;
+    background-color: #007bff;
+    color: white;
+}
+
+main {
+    padding: 20px;
+    text-align: left;
+}
+
+strong {
+    font-weight: bold;
+}
+
+/* Slog za sekcijo bolezni */
+.diseases {
+    display: flex;
+    justify-content: space-between; /* Postavi vsak element v svojo kolono */
+    flex-wrap: wrap; /* Omogoči prelome, če ni dovolj prostora */
+    gap: 20px;
+}
+
+.disease {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    padding: 15px;
+    border-radius: 8px;
+    width: 23%; /* Nastavi širino vsakega bloka na 23%, da se prilegajo v vrstico */
+    box-sizing: border-box;
+    text-align: center;
+}
+
+button {
+    background-color: #007bff;
+    color: white;
+    border: none;
+    padding: 10px 15px;
+    margin: 10px 0;
+    cursor: pointer;
+    border-radius: 5px;
+    font-size: 16px;
+}
+
+button:hover {
+    background-color: #0056b3;
+}
+
+.showMoreBtn {
+    margin-left: 10px;
+    background-color: #28a745;
+}
+
+.showMoreBtn:hover {
+    background-color: #218838;
+}
+
+/* Skrivanje besedila pri nalaganju strani */
+.moreText {
+    display: block;
+    color: #555;
+}
+
+/* Dodatno besedilo, ki se prikaže ob kliku */
+.extraText {
+    display: none;
+    color: #444;
+}
+
+/* Razdelitev slik */
+.image-container {
+    text-align: center;
+    margin: 20px 0;
+}
+
+.image-container img {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+/* Navigacija */
+.navigation {
+    text-align: center;
+    margin-top: 20px;
+}
+
+.slike {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+    margin: 20px 0;
+}
+
+.slike img {
+    width: 300px;
+    height: auto;
+    border-radius: 8px;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
